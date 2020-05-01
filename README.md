@@ -6,4 +6,4 @@ This respository contains solutions for the assignments for the Stanford Course 
 
 [Lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
-My repository on training neural nets using only Numpy [(NN-Numpy)]([https://github.com/avilash/neural-networks-numpy](https://github.com/avilash/neural-networks-numpy)) has been inspired from these assignments and implements them as standalone Google Colab Notebooks.
+My repository on training neural nets using only Numpy [(NN-Numpy)](https://github.com/avilash/neural-networks-numpy) has been inspired from these assignments and implements them as standalone Google Colab Notebooks.
